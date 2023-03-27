@@ -1,0 +1,64 @@
+﻿@model TatBlog.WebApp.Areas.Admin.Models.PostFilterModel
+
+<form asp-area ="Admin"
+      asp-controller ="Posts"
+      asp-action ="Index"
+      method="get"
+      class="row gy-2 gx-3 align-items-center">
+
+      <div class="col-auto">
+            <label class="visually-hidden"asp-for="Keyword"></label>
+            <input type="text"
+                   class="form-control"
+                   asp-for="Keyword"
+           placeholder="Nhâp tù khóa...">
+      </div>
+
+      <div class="col-auto">
+           <label class="visually-hidden" asp-for="AuthorId"></label>
+           <select class="form-select"
+                   asp-for="AuthorId"
+                   asp-items="Model.AuthorList">
+            <option value="" selected>-- Chon tác già --</option>
+            </select>
+      </div>
+
+      <div class="col-auto">
+            <label class="visually-hidden" asp-for="CategoryId"></label>
+            <select class="form-select"
+                    asp-for="CategoryId"
+                    asp-items="Model.CategoryList">
+            <option value="" selected>-- Chọn chù de --</option>
+            </select>
+      </div>
+      
+      <div class="col-auto">
+        <label class="visually-hidden" asp-for="Year"></label>
+        <input type="text"
+           class="form-control"
+           asp-for="Year"
+           placeholder="Nhâp nam...">
+     </div>
+
+
+     <div class="col-auto">
+        <label class="visually-hidden" asp-for="Month"></label>
+        <select class="form-select"
+             asp-for="Month"
+            asp-items="Model.MonthList">
+         <option value="" selected>-- Chon thang --</option>
+        </select>
+     </div>
+
+
+     <div class="col-auto">
+        <button type="submit" class="btn btn-primary">Tìm/Loc</button>
+
+        <a asp-area="Admin"
+            asp-controller="Posts"
+            asp-action="Edit"
+            class="btn btn-success">
+            Thêm mới
+        </a>
+    </div>
+ </form>
