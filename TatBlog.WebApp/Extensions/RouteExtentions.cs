@@ -42,7 +42,7 @@ public static class RouteExtensions {
 
         endpoints.MapControllerRoute(
         name: "admin-area",
-        pattern:"admin/{controller=Dasboard}/{action=Index}/{id?}",
+        pattern:"admin/{controller=Dashboard}/{action=Index}/{id?}",
         defaults: new { area = "Admin" });
 
         endpoints.MapControllerRoute(

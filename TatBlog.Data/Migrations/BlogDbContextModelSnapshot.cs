@@ -118,7 +118,7 @@ namespace TatBlog.Data.Migrations
                     b.Property<int>("AuthorId")
                         .HasColumnType("int");
 
-                    b.Property<int>("CatgoryId")
+                    b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
@@ -170,7 +170,7 @@ namespace TatBlog.Data.Migrations
 
                     b.HasIndex("AuthorId");
 
-                    b.HasIndex("CatgoryId");
+                    b.HasIndex("CategoryId");
 
                     b.ToTable("Posts", (string)null);
                 });
@@ -227,7 +227,7 @@ namespace TatBlog.Data.Migrations
 
                     b.HasOne("TatBlog.Core.Entities.Category", "Category")
                         .WithMany("Posts")
-                        .HasForeignKey("CatgoryId")
+                        .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired()
                         .HasConstraintName("FK_Posts_Authors");

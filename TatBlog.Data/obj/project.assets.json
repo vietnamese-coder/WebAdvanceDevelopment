@@ -4342,11 +4342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
+      "projectUniqueName": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj",
       "projectName": "TatBlog.Data",
-      "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
+      "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj",
       "packagesPath": "C:\\Users\\Doan Dinh Hoang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\obj\\",
+      "outputPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Doan Dinh Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4363,8 +4363,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-              "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+            "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj": {
+              "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj"
             }
           }
         }

@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\TatBlog.Core",
-    "\\TatBlog.Core\\Entities"
+    "\\TatBlog.Core\\Entities",
+    "\\TatBlog.Services",
+    "\\TatBlog.Services\\Blogs"
   ],
-  "SelectedNode": "\\TatBlog.Core\\Entities\\Post.cs",
+  "SelectedNode": "\\TatBlog.Services\\Blogs\\BlogRepository.cs",
   "PreviewInSolutionExplorer": false
 }

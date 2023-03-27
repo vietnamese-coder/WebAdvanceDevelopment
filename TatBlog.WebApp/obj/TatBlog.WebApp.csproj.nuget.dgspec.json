@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj": {}
+    "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.WebApp\\TatBlog.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
+    "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectUniqueName": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj",
         "projectName": "TatBlog.Core",
-        "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj",
         "packagesPath": "C:\\Users\\Doan Dinh Hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\obj\\",
+        "outputPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doan Dinh Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
+    "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
+        "projectUniqueName": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj",
         "projectName": "TatBlog.Data",
-        "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
+        "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj",
         "packagesPath": "C:\\Users\\Doan Dinh Hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\obj\\",
+        "outputPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doan Dinh Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-                "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+              "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj"
               }
             }
           }
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj": {
+    "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Services\\TatBlog.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
+        "projectUniqueName": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Services\\TatBlog.Services.csproj",
         "projectName": "TatBlog.Services",
-        "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
+        "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Services\\TatBlog.Services.csproj",
         "packagesPath": "C:\\Users\\Doan Dinh Hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Services\\obj\\",
+        "outputPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doan Dinh Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,11 +190,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-                "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+              "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj"
               },
-              "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
-                "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj"
+              "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj": {
+                "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj"
               }
             }
           }
@@ -246,14 +246,14 @@
         }
       }
     },
-    "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj": {
+    "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.WebApp\\TatBlog.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj",
+        "projectUniqueName": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.WebApp\\TatBlog.WebApp.csproj",
         "projectName": "TatBlog.WebApp",
-        "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj",
+        "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.WebApp\\TatBlog.WebApp.csproj",
         "packagesPath": "C:\\Users\\Doan Dinh Hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.WebApp\\obj\\",
+        "outputPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doan Dinh Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -270,14 +270,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-                "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+              "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj"
               },
-              "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
-                "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj"
+              "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj": {
+                "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Data\\TatBlog.Data.csproj"
               },
-              "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj": {
-                "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj"
+              "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Services\\TatBlog.Services.csproj": {
+                "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Services\\TatBlog.Services.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1pb2SNp7V57row15fVMlGzDxrOeCCtBBnOVExt8pnIprGTN7NKjyElx80zoyN1dxFp1syx1TsgqlwaoPe8hJ3g==",
+  "dgSpecHash": "o6ZwUJsBvv99M8Mrk6VHr53AuYf8OrqXoI2pD8JNxRzyJeUDSkxgp7w0WPcmZAUivMJhlw6Z7cciy25VIF+1HQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+  "projectFilePath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Doan Dinh Hoang\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Doan Dinh Hoang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -13,3 +13,18 @@ C:\Users\Doan Dinh Hoang\Downloads\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\T
 C:\Users\Doan Dinh Hoang\Downloads\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\refint\TatBlog.Data.dll
 C:\Users\Doan Dinh Hoang\Downloads\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.pdb
 C:\Users\Doan Dinh Hoang\Downloads\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\ref\TatBlog.Data.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.deps.json
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\bin\Debug\net6.0\TatBlog.Core.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.AssemblyReference.cache
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.AssemblyInfoInputs.cache
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.AssemblyInfo.cs
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.CoreCompileInputs.cache
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.CopyComplete
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\refint\TatBlog.Data.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.pdb
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Data\obj\Debug\net6.0\ref\TatBlog.Data.dll

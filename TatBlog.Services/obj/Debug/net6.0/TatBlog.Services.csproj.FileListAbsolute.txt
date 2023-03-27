@@ -15,3 +15,20 @@ C:\Users\Doan Dinh Hoang\Downloads\TipsAndTricks\TatBlog.Services\obj\Debug\net6
 C:\Users\Doan Dinh Hoang\Downloads\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\refint\TatBlog.Services.dll
 C:\Users\Doan Dinh Hoang\Downloads\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.pdb
 C:\Users\Doan Dinh Hoang\Downloads\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\ref\TatBlog.Services.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.deps.json
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.pdb
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\bin\Debug\net6.0\TatBlog.Core.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\bin\Debug\net6.0\TatBlog.Data.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.AssemblyReference.cache
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfoInputs.cache
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfo.cs
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CoreCompileInputs.cache
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CopyComplete
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\refint\TatBlog.Services.dll
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.pdb
+D:\WebNcAnhDinh\WebAdvanceDevelopment\TatBlog.Services\obj\Debug\net6.0\ref\TatBlog.Services.dll

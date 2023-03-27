@@ -1846,11 +1846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+      "projectUniqueName": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj",
       "projectName": "TatBlog.Core",
-      "projectPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+      "projectPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\TatBlog.Core.csproj",
       "packagesPath": "C:\\Users\\Doan Dinh Hoang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Doan Dinh Hoang\\Downloads\\TipsAndTricks\\TatBlog.Core\\obj\\",
+      "outputPath": "D:\\WebNcAnhDinh\\WebAdvanceDevelopment\\TatBlog.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Doan Dinh Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",

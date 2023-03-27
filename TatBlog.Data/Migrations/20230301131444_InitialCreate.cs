@@ -76,7 +76,7 @@ namespace TatBlog.Data.Migrations
                     Published = table.Column<bool>(type: "bit", nullable: false, defaultValue: false),
                     PostedDate = table.Column<DateTime>(type: "datetime", nullable: false),
                     ModifiedDate = table.Column<DateTime>(type: "datetime", nullable: true),
-                    CatgoryId = table.Column<int>(type: "int", nullable: false),
+                    CategoryId = table.Column<int>(type: "int", nullable: false),
                     AuthorId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
@@ -84,7 +84,7 @@ namespace TatBlog.Data.Migrations
                     table.PrimaryKey("PK_Posts", x => x.Id);
                     table.ForeignKey(
                         name: "FK_Posts_Authors",
-                        column: x => x.CatgoryId,
+                        column: x => x.CategoryId,
                         principalTable: "Categories",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -126,9 +126,9 @@ namespace TatBlog.Data.Migrations
                 column: "AuthorId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Posts_CatgoryId",
+                name: "IX_Posts_CategoryId",
                 table: "Posts",
-                column: "CatgoryId");
+                column: "CategoryId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_PostTags_TagsId",
