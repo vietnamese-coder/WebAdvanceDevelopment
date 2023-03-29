@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using FluentValidation;
 using TatBlog.WebApi.Extensions;
 using TatBlog.Services.Media;
+using TatBlog.WebApi.Filters;
 
 namespace TatBlog.WebApi.Endpoints; 
 public static class AuthorEndpoints {
@@ -35,6 +36,7 @@ public static class AuthorEndpoints {
 
         routeGroupBuilder.MapPost("/", AddAuthor)
             .WithName("AddNewAuthor")
+            .AddEndpointFilter<ValidatorFilter<AuthorEditModel>>()
             .Produces(201)
             .Produces(400)
             .Produces(409);
@@ -47,15 +49,15 @@ public static class AuthorEndpoints {
 
         routeGroupBuilder.MapPut("/{id:int}", UpdateAuthor)
             .WithName ("UpdateAnAuthor")
+            .AddEndpointFilter<ValidatorFilter<AuthorEditModel>>()
             .Produces(204)
             .Produces(400)
             .Produces(409);
 
         routeGroupBuilder.MapDelete("/{id:int}", DeleteAuthor)
-            .WithName("UpdateAnAuthor")
+            .WithName("DeleteAnAuthor")
             .Produces(204)
-            .Produces(400);
-
+            .Produces(404);
         return app;
     }
 
@@ -117,16 +119,10 @@ public static class AuthorEndpoints {
 
     private static async Task<IResult> AddAuthor(
         AuthorEditModel model,
-        IValidator<AuthorEditModel> validator,
+        /*IValidator<AuthorEditModel> validator,*/
         IAuthorRepository authorRepository,
         IMapper mapper) {
-        var validationResult = await validator.ValidateAsync(model);
-
-        if (!validationResult.IsValid) { 
-            return Results.BadRequest(
-                validationResult.Errors.ToResponse());
-        }
-
+        /*var validationResult = await validator.ValidateAsync(model);*/
         if (await authorRepository
                 .IsAuthorSlugExistedAsync(0, model.UrlSlug)) {
             return Results.Conflict(
@@ -159,16 +155,10 @@ public static class AuthorEndpoints {
 
     private static async Task<IResult> UpdateAuthor(
         int id, AuthorEditModel model,
-        IValidator<AuthorEditModel> validator,
+        /*IValidator<AuthorEditModel> validator,*/
         IAuthorRepository authorRepository,
         IMapper mapper) {
-        var validationResult = await validator.ValidateAsync(model);
-
-        if (!validationResult.IsValid) {
-            return Results.BadRequest(
-                validationResult.Errors.ToResponse());
-        }
-
+        /*var validationResult = await validator.ValidateAsync(model);*/
         if (await authorRepository
                 .IsAuthorSlugExistedAsync(id, model.UrlSlug)) {
             return Results.Conflict(
