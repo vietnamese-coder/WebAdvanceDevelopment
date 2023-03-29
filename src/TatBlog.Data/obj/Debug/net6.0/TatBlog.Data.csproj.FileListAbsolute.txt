@@ -1,0 +1,15 @@
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.deps.json
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.dll
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\bin\Debug\net6.0\TatBlog.Core.dll
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.AssemblyReference.cache
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.AssemblyInfoInputs.cache
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.AssemblyInfo.cs
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.CoreCompileInputs.cache
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.CopyComplete
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.dll
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\refint\TatBlog.Data.dll
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.pdb
+D:\WebAdvanceDevelopment\WebAdvanceDevelopment\src\TatBlog.Data\obj\Debug\net6.0\ref\TatBlog.Data.dll

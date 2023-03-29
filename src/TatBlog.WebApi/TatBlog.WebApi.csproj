@@ -22,9 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Validations\" />
     <Folder Include="Filters\" />
-    <Folder Include="Endpoints\" />
     <Folder Include="wwwroot\uploads\pictures\" />
     <Folder Include="wwwroot\uploads\" />
   </ItemGroup>

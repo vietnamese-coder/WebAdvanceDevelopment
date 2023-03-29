@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ChwjOQhUX1WhwOcL5eZ5JTmX2ohZRRndHi0zWy15tHE=",
+  "Source": "TatBlog.WebApi",
+  "BasePath": "_content/TatBlog.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TatBlog.WebApi\\wwwroot",
+      "Source": "TatBlog.WebApi",
+      "ContentRoot": "D:\\WebAdvanceDevelopment\\WebAdvanceDevelopment\\src\\TatBlog.WebApi\\wwwroot\\",
+      "BasePath": "_content/TatBlog.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
