@@ -1,0 +1,12 @@
+{
+    "version":"0.2.0",
+    "configurations": [
+        {
+            "type" : "msedge",
+            "request": "launch",
+            "name" :"Launch Edge agains localhost",
+            "url" : "https://localhotst:3000",
+            "webRoot":"${workspaceFolder}"
+        }
+    ]
+}
